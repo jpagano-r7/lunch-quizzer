@@ -10,7 +10,7 @@
 # http://github.com/RailsApps/rails-composer/issues
 #----------------------------------------------------------------------------
 
-db/schema.rb
+# db/schema.rb
 mat
 # bundler state
 /.bundle
@@ -30,7 +30,7 @@ db/*.sqlite3
 .redcar/
 .sass-cache
 /config/config.yml
-/config/database.yml
+# /config/database.yml
 /coverage.data
 /coverage/
 /db/*.javadb/
