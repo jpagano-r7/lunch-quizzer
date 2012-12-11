@@ -58,3 +58,6 @@ gem "simple_form", ">= 2.0.4"
 gem "foreman"
 gem "pickle"
 gem "newrelic_rpm"
+gem "quiet_assets", ">= 1.0.1", :group => :development
+gem "better_errors", ">= 0.0.8", :group => :development
+gem "binding_of_caller", ">= 0.6.8", :group => :development
