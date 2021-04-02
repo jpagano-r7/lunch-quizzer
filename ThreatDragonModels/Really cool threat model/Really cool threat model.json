@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Really cool threat model",
+    "owner": "Me",
+    "description": "This is a very important system"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Really good diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "You"
+  }
+}
